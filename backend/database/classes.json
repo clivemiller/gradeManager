@@ -1,0 +1,35 @@
+[
+  {
+    "id": 101,
+    "name": "Math 101",
+    "teacherId": 2,
+    "students": [
+      {
+        "studentId": 4,
+        "grade": "A"
+      }
+    ]
+  },
+  {
+    "id": 1733467512306,
+    "name": "History",
+    "teacherId": 1733466963605,
+    "students": [
+      {
+        "studentId": 4,
+        "grade": null
+      }
+    ]
+  },
+  {
+    "id": 1733467592790,
+    "name": "Rhetoic",
+    "teacherId": 1733466963605,
+    "students": [
+      {
+        "studentId": 4,
+        "grade": "100"
+      }
+    ]
+  }
+]

@@ -1,0 +1,39 @@
+[
+  {
+    "id": 1,
+    "username": "clive_admin",
+    "password": "adminpass",
+    "role": "admin",
+    "childrenIds": []
+  },
+  {
+    "id": 2,
+    "username": "bob_teacher",
+    "password": "teachpass",
+    "role": "teacher",
+    "childrenIds": []
+  },
+  {
+    "id": 3,
+    "username": "charlie_parent",
+    "password": "parentpass",
+    "role": "parent",
+    "childrenIds": [
+      4
+    ]
+  },
+  {
+    "id": 4,
+    "username": "david_student",
+    "password": "studentpass",
+    "role": "student",
+    "childrenIds": []
+  },
+  {
+    "id": 1733466963605,
+    "username": "Mack Miller",
+    "password": "1234",
+    "role": "teacher",
+    "childrenIds": []
+  }
+]
